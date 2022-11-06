@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "@uma/core": "^2.41.0",
+    "@uma/sdk": "^0.29.5",
     "solc": "^0.8.17"
   }
 }
